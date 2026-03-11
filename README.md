@@ -1,2 +1,2 @@
-WEB GITHUB AND ESCRITORIO GIT
+WEB GITHUB AND ESCRITORIO GIT.
 Estamos aprendiendo comandos.
