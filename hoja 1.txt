@@ -3,3 +3,5 @@ YO: Hola, ¿Cómo estas?
 YO: Hola, por favor, responde.
 
 WEB: Hola, yo estoy bien, ¿y tu?
+
+YO: Que bueno poder leerte yo también estoy bien.
